@@ -6,10 +6,22 @@
 </p>
 
 ---
-
 # 🔧 Tech & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,git,github,vscode,pandas,numpy,matplotlib,powerbi,figma,linux,fastapi,docker" alt="Tech Icons" />
+  <!-- Core Stack -->
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux,mysql,html,css,js,pandas,numpy" alt="Core Tools" />
+  <br/>
+
+  <!-- Data Visualization -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Matplotlib_logo.svg" width="45" height="45" alt="Matplotlib" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Power_bi_logo_black.svg" width="45" height="45" alt="Power BI" />
+  
+  <!-- APIs and Backend -->
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="45" height="45" alt="FastAPI" />
+  <img src="https://skillicons.dev/icons?i=docker,postman" alt="Docker and Postman" />
+
+  <!-- Design & Productivity -->
+  <img src="https://skillicons.dev/icons?i=figma,notion" alt="Figma and Notion" />
 </p>
 
 ---
