@@ -1,7 +1,3 @@
-<p align="left">
-  <img src="https://raw.githubusercontent.com/THExCREATORxMAGIC/THExCREATORxMAGIC/main/header.png" width="100%" />
-</p>
-
 <h1 align="left">
   💀 Hey, I'm <strong>Prateek Mishra</strong> — THExCREATORxMAGIC 👋
 </h1>
@@ -10,12 +6,14 @@
   <a href="mailto:Prateek.mishra.cs@gmail.com">Email</a> •
   <a href="https://in.linkedin.com/in/prateek--mishra">LinkedIn</a> •
   <a href="https://instagram.com/invaluable__abstract">Instagram</a> •
+  <a href="https://recuriosolutions.com">Website</a> •
+  <a href="https://github.com/THExCREATORxMAGIC">Portfolio</a> •
   <a href="#">Resume (Coming Soon)</a>
 </p>
 
 ---
 <p align="left"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1800&pause=800&color=00FF00&width=800&lines=Business+Analyst+%7C+Python+Developer;AI+%26+Automation+Enthusiast;Creator+of+Digital+Magic;Building+Smart+Things+with+Code" /> </p>
----
+
 
 ## 🖥️ Hacker Terminal Interface
 ```text
@@ -28,7 +26,7 @@
 > SUCCESS: GUI-HACKER-MODE activated
 ```
 ---
-##⚡ About Me
+⚡ About Me
 ```bash
 > python3 about.py
 {
@@ -39,7 +37,7 @@
 }
 ```
 ---
-##🧰 Tech Arsenal
+🧰 Tech Arsenal
 <div align="left"> <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" /> <img src="https://img.shields.io/badge/Automation-000?style=for-the-badge&logo=robotframework" /> <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux" /> <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" /> <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql" /> <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker" /> </div>
 
 ---
@@ -63,17 +61,16 @@ https://github.com/THExCREATORxMAGIC/Matrix-Web-Portfolio
 
 ---
 
-##📊 GitHub Analytics
+📊 GitHub Analytics
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=THExCREATORxMAGIC&show_icons=true&theme=radical" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THExCREATORxMAGIC&layout=compact&theme=radical" height="165" /> </p>
 
 ---
-##🛰️ Activity Radar
+🛰️ Activity Radar
 
 <p align="left"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=THExCREATORxMAGIC&theme=react-dark" /> </p>
----
 
-##🧪 Terminal Toys
+🧪 Terminal Toys
 ```bash
 # Clone trending build
 git clone https://github.com/THExCREATORxMAGIC/Matrix-Web-Portfolio
@@ -86,7 +83,7 @@ python3 assistant.py --launch
 
 ```
 ---
-##💼 Hire Me / Contact
+💼 Hire Me / Contact
 Email: Prateek.mishra.cs@gmail.com
 
 LinkedIn: prateek--mishra
@@ -96,7 +93,7 @@ Instagram: @invaluable__abstract
 Portfolio/Website: www.recuriosolutions.com
 
 ---
-##🔒 Security Note
+🔒 Security Note
 
 This profile uses hacker-style visuals for aesthetic purposes only.
 No malicious content, no exploits — only creativity.
