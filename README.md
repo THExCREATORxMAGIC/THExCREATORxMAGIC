@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://raw.githubusercontent.com/THExCREATORxMAGIC/THExCREATORxMAGIC/main/header.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/THExCREATORxMAGIC/THExCREATORxMAGIC/main/header.png" width="100%" />
 </p>
 
 <h1 align="left">
