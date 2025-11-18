@@ -1,98 +1,112 @@
-# 👋 Hi, I’m Prateek Mishra  
-### 🚀 Business Analyst • 💻 Python Developer • 🧠 AI & Automation Enthusiast  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/THExCREATORxMAGIC/THExCREATORxMAGIC/main/header.gif" width="100%" />
+</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00AEEF&background=0F1724&center=true&vCenter=true&width=650&lines=Turning+data+into+impact;Automating+workflows+with+Python;Building+AI-powered+solutions" alt="Typing Animation" />
+<h1 align="left">
+  💀 Hey, I'm <strong>Prateek Mishra</strong> — THExCREATORxMAGIC 👋
+</h1>
+
+<p align="left">
+  <a href="mailto:Prateek.mishra.cs@gmail.com">Email</a> •
+  <a href="https://in.linkedin.com/in/prateek--mishra">LinkedIn</a> •
+  <a href="https://instagram.com/invaluable__abstract">Instagram</a> •
+  <a href="#">Resume (Coming Soon)</a>
 </p>
 
 ---
-# 🔧 Tech & Tools
-<p align="center">
-  <!-- Core Stack -->
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux,mysql,html,css,js,pandas,numpy" alt="Core Tools" />
-  <br/>
+<p align="left"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1800&pause=800&color=00FF00&width=800&lines=Business+Analyst+%7C+Python+Developer;AI+%26+Automation+Enthusiast;Creator+of+Digital+Magic;Building+Smart+Things+with+Code" /> </p>
+---
 
-  <!-- Data Visualization -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Matplotlib_logo.svg" width="45" height="45" alt="Matplotlib" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Power_bi_logo_black.svg" width="45" height="45" alt="Power BI" />
-  
-  <!-- APIs and Backend -->
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="45" height="45" alt="FastAPI" />
-  <img src="https://skillicons.dev/icons?i=docker,postman" alt="Docker and Postman" />
+## 🖥️ Hacker Terminal Interface
+```text
+┌──(root㉿thecreator)-[~/github]
+└─$ initializing profile...
 
-  <!-- Design & Productivity -->
-  <img src="https://skillicons.dev/icons?i=figma,notion" alt="Figma and Notion" />
-</p>
+[██████████░░░░░░] 63%  | scanning repositories
+> loading modules: python, automation, ai, react, linux
+> establishing secure connection...
+> SUCCESS: GUI-HACKER-MODE activated
+```
+---
+##⚡ About Me
+```bash
+> python3 about.py
+{
+  "role": "Business Analyst",
+  "skills": ["Python", "Automation", "AI Workflows", "React", "Linux"],
+  "mission": "Build intelligent systems that simplify human work",
+  "status": "Always in Dev Mode ⚡"
+}
+```
+---
+##🧰 Tech Arsenal
+<div align="left"> <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" /> <img src="https://img.shields.io/badge/Automation-000?style=for-the-badge&logo=robotframework" /> <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux" /> <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" /> <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql" /> <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker" /> </div>
+
+---
+🚀 Trending Projects (Auto Picks)
+
+🔹 Hacker-UI-Framework
+Sleek UI library inspired by anonymous terminal dashboards.
+https://github.com/THExCREATORxMAGIC/Hacker-UI-Framework
+
+🔹 AI-Code-Assistant
+Local AI agent for automating coding workflows.
+https://github.com/THExCREATORxMAGIC/AI-Code-Assistant
+
+🔹 AutoRecon-Python
+Automated system scanner built with Python + OSINT tools.
+https://github.com/THExCREATORxMAGIC/AutoRecon-Python
+
+🔹 Matrix-Web-Portfolio
+Hacker-themed animated portfolio powered by React + GSAP.
+https://github.com/THExCREATORxMAGIC/Matrix-Web-Portfolio
 
 ---
 
-# 📊 GitHub Stats
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=prateekmishra&show_icons=true&count_private=true&theme=react&hide_border=true" alt="GitHub Stats" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=prateekmishra&theme=react&hide_border=true" alt="GitHub Streak" />
-</p>
+##📊 GitHub Analytics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=prateekmishra&bg_color=0F1724&color=00AEEF&line=00AEEF&point=00AEEF&area=true&hide_border=true" alt="Activity Graph" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekmishra&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
-</p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=THExCREATORxMAGIC&show_icons=true&theme=radical" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THExCREATORxMAGIC&layout=compact&theme=radical" height="165" /> </p>
 
 ---
+##🛰️ Activity Radar
 
-# 📂 Featured Projects
-> Add or replace these with your real repos — then pin them on your GitHub profile for best display.
-
-- **[Project-Analytics-Automation](https://github.com/prateekmishra/Project-Analytics-Automation)** — Automated ETL + dashboards using Python & Power BI.  
-  `Highlights:` scheduled data pipelines, KPI dashboards, and report automation.
-
-- **[fastapi-ml-service](https://github.com/prateekmishra/fastapi-ml-service)** — Deploy ML models via FastAPI.  
-  `Highlights:` Docker, model versioning, async endpoints, CI-ready.
-
-- **[data-story-notebooks](https://github.com/prateekmishra/data-story-notebooks)** — Collection of polished data notebooks for analytics.  
-  `Highlights:` EDA patterns, storytelling-first visualizations, reusable templates.
-
+<p align="left"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=THExCREATORxMAGIC&theme=react-dark" /> </p>
 ---
 
-# 📌 About Me
-- 🔭 Currently building **data-driven automation solutions**  
-- 🌱 Learning **FastAPI**, **MLOps basics**, and advanced **Power BI modeling**  
-- 💬 Ask me about **data pipelines**, **dashboard automation**, or **Python scripting**  
-- ⚡ Fun fact: I turn messy spreadsheets into actionable business insights 😎  
+##🧪 Terminal Toys
+```bash
+# Clone trending build
+git clone https://github.com/THExCREATORxMAGIC/Matrix-Web-Portfolio
+cd Matrix-Web-Portfolio
+npm install
+npm run dev
+
+# Run AI automation assistant
+python3 assistant.py --launch
+
+```
+---
+##💼 Hire Me / Contact
+Email: Prateek.mishra.cs@gmail.com
+
+LinkedIn: prateek--mishra
+
+Instagram: @invaluable__abstract
+
+Portfolio/Website: www.recuriosolutions.com
 
 ---
+##🔒 Security Note
 
-# 🤝 Connect with Me
-<p align="center">
-  <a href="https://in.linkedin.com/in/prateek--mishra" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:Prateek.mishra.cs@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://www.recuriosolutions.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-00AEEF?logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-</p>
+This profile uses hacker-style visuals for aesthetic purposes only.
+No malicious content, no exploits — only creativity.
 
----
 
-# 📝 CV & Quick Links
-- Resume / CV: `[Download PDF](https://github.com/prateekmishra/resume/raw/main/Prateek_Mishra_Resume.pdf)` *(add or update your resume file link here)*  
-- Website: [www.recuriosolutions.com](https://www.recuriosolutions.com)  
-- Available for: Freelance analytics, automation & AI solution development
 
----
 
-# 📈 Visitor Count
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prateekmishra&color=00AEEF&style=flat-square" alt="Visitor Count" />
-</p>
 
----
 
-<p align="center">
-  <i>✨ Crafted with passion — bringing data and design together ✨</i>
-</p>
+
+
+
 
